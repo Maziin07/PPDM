@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Como a Hepatite A é transmitida?",
+    "options": [
+      "Pelo ar",
+      "Pelo contato com sangue",
+      "Por água ou alimentos contaminados",
+      "Por picada de inseto"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual órgão é afetado pela Hepatite A?",
+    "options": ["Coração", "Fígado", "Pulmões", "Estômago"],
+    "answer": 1
+  },
+  {
+    "question": "Existe vacina contra a Hepatite A?",
+    "options": ["Sim", "Não"],
+    "answer": 0
+  },
+
+  {
+    "question": "Quais são os principais sintomas da Hepatite A?",
+    "options": [
+      "Febre, dor abdominal e náusea",
+      "Cefaleia, dor muscular e tosse",
+      "Diarréia, dor nas articulações e tosse seca",
+      "Dor de garganta, febre alta e cansaço"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Hepatite A pode ser curada?",
+    "options": [
+      "Sim, a cura ocorre de forma espontânea",
+      "Não, não há cura disponível",
+      "Sim, com antibióticos",
+      "Sim, com tratamentos antivirais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é o período de incubação da Hepatite A?",
+    "options": [
+      "1-2 semanas",
+      "2-4 semanas",
+      "4-6 semanas",
+      "6-8 semanas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A Hepatite A pode causar complicações graves?",
+    "options": [
+      "Sim, especialmente em pessoas com doenças hepáticas preexistentes",
+      "Não, é uma doença leve",
+      "Sim, mas somente em pessoas com idade avançada",
+      "Não, nunca causa complicações"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a principal forma de prevenção contra a Hepatite A?",
+    "options": [
+      "Uso de preservativo",
+      "Vacinação e higiene adequada",
+      "Evitar alimentos gordurosos",
+      "Evitar o consumo de álcool"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A Hepatite A pode ser transmitida por contato com superfícies contaminadas?",
+    "options": [
+      "Sim, por meio de alimentos ou objetos contaminados",
+      "Não, somente por via sexual",
+      "Sim, por contato direto com a pele",
+      "Não, é transmitida apenas por picada de insetos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Hepatite A é uma doença contagiosa?",
+    "options": [
+      "Sim, é altamente contagiosa",
+      "Não, é uma doença crônica",
+      "Sim, mas apenas em estágios avançados",
+      "Não, é apenas uma condição hepática"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quando uma pessoa infectada pela Hepatite A pode transmitir a doença?",
+    "options": [
+      "Durante o período de incubação e até uma semana após o início dos sintomas",
+      "Somente após a cura",
+      "Durante todo o período da doença",
+      "Somente antes do aparecimento dos sintomas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Hepatite A pode ser diagnosticada com um exame de sangue?",
+    "options": [
+      "Sim, é possível detectar a infecção através de exames laboratoriais",
+      "Não, é preciso fazer uma biópsia do fígado",
+      "Não, a infecção é diagnosticada apenas pelos sintomas",
+      "Sim, mas é necessário fazer uma ultrassonografia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Hepatite A é mais comum em quais regiões do mundo?",
+    "options": [
+      "Regiões tropicais e subdesenvolvidas",
+      "Países desenvolvidos e urbanos",
+      "Regiões polares",
+      "Áreas com clima temperado"
+    ],
+    "answer": 0
+  },
+
+
+{
+  "feedback": {
+    "high_score": "Parabéns! Você tem um excelente conhecimento sobre Hepatite A!",
+    "medium_score": "Ótimo trabalho! Você acertou bastante, mas ainda há alguns pontos para revisar sobre Hepatite A.",
+    "low_score": "Você pode melhorar! Aproveite para estudar mais sobre Hepatite A e sua prevenção."
+  }
+
+}
+
+]
